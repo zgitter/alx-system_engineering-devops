@@ -1,0 +1,2 @@
+#!/bin/bash
+emacs chmod 007 hello

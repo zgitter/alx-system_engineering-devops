@@ -1,2 +1,2 @@
 #!/bin/bash
-emacs hello
+emacs 755 hello

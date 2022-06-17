@@ -1,2 +1,2 @@
 #!/bin/bash
-emacs chmod u+x hello
+emacs hello
